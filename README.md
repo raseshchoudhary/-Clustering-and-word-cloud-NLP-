@@ -14,13 +14,13 @@ In this case I have used a clustering type known as K-means clustering.
 
 1.Cleaned the data
 
-2. Vectorized the data to convert into numbers
+2.Vectorized the data to convert into numbers
 
 3.Made the clusters using K-means clustering by filling the vectorised data in the model
 
-4. Made word clouds
+4.Made word clouds
 
-Words clouds.
+# Words clouds.
 
 ![alt text](https://th.bing.com/th/id/R.297bde9d86a727b0f0d4b5b683dad490?rik=DVJ6Z6UwUuq95Q&riu=http%3a%2f%2fwww.rt3nc.org%2fedtech%2fwp%2fwp-content%2fuploads%2f2013%2f01%2farticle.png&ehk=JnGjmVebd2eZzr2bg%2fbo7iIgiXBEu%2bXA9OrztIi1Rjc%3d&risl=&pid=ImgRaw&r=0)
 
@@ -28,4 +28,4 @@ After dividing the data into clustering, I have picked each and every cluster an
 
 If each and every word cloud contain words that make a theme, then we can be sure that clusters are of good quality and are sensible.
 
-#Thank you
+# Thank you
